@@ -1,0 +1,14 @@
+/Users/olgaslykova/RiderProjects/InfinityLibraly/InfinityLibraly/bin/Debug/net10.0/InfinityLibraly
+/Users/olgaslykova/RiderProjects/InfinityLibraly/InfinityLibraly/bin/Debug/net10.0/InfinityLibraly.deps.json
+/Users/olgaslykova/RiderProjects/InfinityLibraly/InfinityLibraly/bin/Debug/net10.0/InfinityLibraly.runtimeconfig.json
+/Users/olgaslykova/RiderProjects/InfinityLibraly/InfinityLibraly/bin/Debug/net10.0/InfinityLibraly.dll
+/Users/olgaslykova/RiderProjects/InfinityLibraly/InfinityLibraly/bin/Debug/net10.0/InfinityLibraly.pdb
+/Users/olgaslykova/RiderProjects/InfinityLibraly/InfinityLibraly/obj/Debug/net10.0/InfinityLibraly.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olgaslykova/RiderProjects/InfinityLibraly/InfinityLibraly/obj/Debug/net10.0/InfinityLibraly.AssemblyInfoInputs.cache
+/Users/olgaslykova/RiderProjects/InfinityLibraly/InfinityLibraly/obj/Debug/net10.0/InfinityLibraly.AssemblyInfo.cs
+/Users/olgaslykova/RiderProjects/InfinityLibraly/InfinityLibraly/obj/Debug/net10.0/InfinityLibraly.csproj.CoreCompileInputs.cache
+/Users/olgaslykova/RiderProjects/InfinityLibraly/InfinityLibraly/obj/Debug/net10.0/InfinityLibraly.dll
+/Users/olgaslykova/RiderProjects/InfinityLibraly/InfinityLibraly/obj/Debug/net10.0/refint/InfinityLibraly.dll
+/Users/olgaslykova/RiderProjects/InfinityLibraly/InfinityLibraly/obj/Debug/net10.0/InfinityLibraly.pdb
+/Users/olgaslykova/RiderProjects/InfinityLibraly/InfinityLibraly/obj/Debug/net10.0/InfinityLibraly.genruntimeconfig.cache
+/Users/olgaslykova/RiderProjects/InfinityLibraly/InfinityLibraly/obj/Debug/net10.0/ref/InfinityLibraly.dll

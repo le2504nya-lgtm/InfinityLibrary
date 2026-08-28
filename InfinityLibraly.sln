@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InfinityLibraly", "InfinityLibraly\InfinityLibraly.csproj", "{A43AAC95-5EA2-4D23-BD49-4DBC1CF2EB2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A43AAC95-5EA2-4D23-BD49-4DBC1CF2EB2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A43AAC95-5EA2-4D23-BD49-4DBC1CF2EB2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A43AAC95-5EA2-4D23-BD49-4DBC1CF2EB2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A43AAC95-5EA2-4D23-BD49-4DBC1CF2EB2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
